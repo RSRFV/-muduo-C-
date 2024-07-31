@@ -1,8 +1,8 @@
 src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o: \
- /home/stark/桌面/chatserver-master/src/server/model/usermodel.cpp \
+ /home/stark/桌面/mini-chat-server/src/server/model/usermodel.cpp \
  /usr/include/stdc-predef.h \
- /home/stark/桌面/chatserver-master/include/server/model/usermodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/user.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/usermodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/user.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -129,7 +129,7 @@ src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o: \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/stark/桌面/chatserver-master/include/server/db/db.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/db/db.hpp \
  /usr/include/mysql/mysql.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
  /usr/include/mysql/field_types.h /usr/include/mysql/my_list.h \

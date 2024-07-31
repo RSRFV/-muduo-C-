@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql
+CXX_INCLUDES = -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql
 
 CXX_FLAGS =  -g -std=c++11 -g
 

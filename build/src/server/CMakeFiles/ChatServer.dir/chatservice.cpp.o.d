@@ -1,9 +1,9 @@
 src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o: \
- /home/stark/桌面/chatserver-master/src/server/chatservice.cpp \
+ /home/stark/桌面/mini-chat-server/src/server/chatservice.cpp \
  /usr/include/stdc-predef.h \
- /home/stark/桌面/chatserver-master/include/server/chatservice.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/usermodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/user.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/chatservice.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/usermodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/user.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -130,16 +130,16 @@ src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o: \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/stark/桌面/chatserver-master/include/server/model/offlinemessagemodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/offlinemessagemodel.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/stark/桌面/chatserver-master/include/server/model/friendmodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/groupmodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/group.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/groupuser.hpp \
- /home/stark/桌面/chatserver-master/include/server/redis/redis.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/friendmodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/groupmodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/group.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/groupuser.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/redis/redis.hpp \
  /usr/local/include/hiredis/hiredis.h /usr/local/include/hiredis/read.h \
  /usr/include/x86_64-linux-gnu/sys/time.h \
  /usr/local/include/hiredis/sds.h /usr/local/include/hiredis/alloc.h \
@@ -156,7 +156,7 @@ src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o: \
  /usr/include/c++/11/ratio /usr/include/c++/11/limits \
  /usr/include/c++/11/ctime /usr/include/c++/11/bits/parse_numbers.h \
  /usr/include/c++/11/functional /usr/include/c++/11/bits/std_function.h \
- /home/stark/桌面/chatserver-master/thirdparty/json.hpp \
+ /home/stark/桌面/mini-chat-server/thirdparty/json.hpp \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \
  /usr/include/c++/11/bits/algorithmfwd.h \
  /usr/include/c++/11/bits/stl_heap.h \
@@ -286,5 +286,5 @@ src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/11/bits/cxxabi_tweaks.h \
  /usr/include/c++/11/mutex /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
- /home/stark/桌面/chatserver-master/include/public.hpp \
+ /home/stark/桌面/mini-chat-server/include/public.hpp \
  /usr/include/muduo/base/Logging.h /usr/include/muduo/base/LogStream.h

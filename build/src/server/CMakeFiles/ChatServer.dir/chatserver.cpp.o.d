@@ -1,7 +1,7 @@
 src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o: \
- /home/stark/桌面/chatserver-master/src/server/chatserver.cpp \
+ /home/stark/桌面/mini-chat-server/src/server/chatserver.cpp \
  /usr/include/stdc-predef.h \
- /home/stark/桌面/chatserver-master/include/server/chatserver.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/chatserver.hpp \
  /usr/include/muduo/net/TcpServer.h /usr/include/muduo/base/Atomic.h \
  /usr/include/muduo/base/noncopyable.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
@@ -231,15 +231,15 @@ src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o: \
  /usr/include/c++/11/bits/erase_if.h /usr/include/muduo/net/EventLoop.h \
  /usr/include/c++/11/atomic /usr/include/muduo/base/Mutex.h \
  /usr/include/muduo/base/CurrentThread.h /usr/include/muduo/net/TimerId.h \
- /home/stark/桌面/chatserver-master/include/server/chatservice.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/usermodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/user.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/offlinemessagemodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/friendmodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/groupmodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/group.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/groupuser.hpp \
- /home/stark/桌面/chatserver-master/include/server/redis/redis.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/chatservice.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/usermodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/user.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/offlinemessagemodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/friendmodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/groupmodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/group.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/groupuser.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/redis/redis.hpp \
  /usr/local/include/hiredis/hiredis.h /usr/local/include/hiredis/read.h \
  /usr/include/x86_64-linux-gnu/sys/time.h \
  /usr/local/include/hiredis/sds.h /usr/local/include/hiredis/alloc.h \
@@ -247,7 +247,7 @@ src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o: \
  /usr/include/c++/11/bits/this_thread_sleep.h /usr/include/c++/11/chrono \
  /usr/include/c++/11/ratio /usr/include/c++/11/limits \
  /usr/include/c++/11/ctime /usr/include/c++/11/bits/parse_numbers.h \
- /home/stark/桌面/chatserver-master/thirdparty/json.hpp \
+ /home/stark/桌面/mini-chat-server/thirdparty/json.hpp \
  /usr/include/c++/11/cassert /usr/include/c++/11/ciso646 \
  /usr/include/c++/11/numeric /usr/include/c++/11/bits/stl_numeric.h \
  /usr/include/c++/11/forward_list /usr/include/c++/11/bits/forward_list.h \

@@ -8,15 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/stark/桌面/chatserver-master/src/server/chatserver.cpp" "src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/chatservice.cpp" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/db/db.cpp" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/main.cpp" "src/server/CMakeFiles/ChatServer.dir/main.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/main.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/model/friendmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/model/groupmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/model/offlinemessagemodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/model/usermodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o.d"
-  "/home/stark/桌面/chatserver-master/src/server/redis/redis.cpp" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/chatserver.cpp" "src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/chatservice.cpp" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/db/db.cpp" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/main.cpp" "src/server/CMakeFiles/ChatServer.dir/main.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/main.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/model/friendmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/model/groupmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/model/offlinemessagemodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/model/usermodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o.d"
+  "/home/stark/桌面/mini-chat-server/src/server/redis/redis.cpp" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o.d"
   )
 
 # Targets to which this target links.

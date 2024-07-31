@@ -1,4 +1,4 @@
-# Install script for directory: /home/stark/桌面/chatserver-master/src/server
+# Install script for directory: /home/stark/桌面/mini-chat-server/src/server
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

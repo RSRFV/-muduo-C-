@@ -1,52 +1,52 @@
 [
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/stark/桌面/chatserver-master/src/server/chatserver.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/chatserver.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/chatserver.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/chatserver.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/stark/桌面/chatserver-master/src/server/chatservice.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/chatservice.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/chatservice.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/chatservice.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/stark/桌面/chatserver-master/src/server/main.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/main.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/main.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/main.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/stark/桌面/chatserver-master/src/server/db/db.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/db/db.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/db/db.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/db/db.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/stark/桌面/chatserver-master/src/server/model/friendmodel.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/model/friendmodel.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/model/friendmodel.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/model/friendmodel.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/stark/桌面/chatserver-master/src/server/model/groupmodel.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/model/groupmodel.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/model/groupmodel.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/model/groupmodel.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/stark/桌面/chatserver-master/src/server/model/offlinemessagemodel.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/model/offlinemessagemodel.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/model/offlinemessagemodel.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/stark/桌面/chatserver-master/src/server/model/usermodel.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/model/usermodel.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/model/usermodel.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/model/usermodel.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/server",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/stark/桌面/chatserver-master/src/server/redis/redis.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/server/redis/redis.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/stark/桌面/mini-chat-server/src/server/redis/redis.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/server/redis/redis.cpp"
 },
 {
-  "directory": "/home/stark/桌面/chatserver-master/build/src/client",
-  "command": "/usr/bin/g++  -I/home/stark/桌面/chatserver-master/include -I/home/stark/桌面/chatserver-master/include/server -I/home/stark/桌面/chatserver-master/include/server/db -I/home/stark/桌面/chatserver-master/include/client -I/home/stark/桌面/chatserver-master/include/model -I/home/stark/桌面/chatserver-master/include/redis -I/home/stark/桌面/chatserver-master/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/stark/桌面/chatserver-master/src/client/main.cpp",
-  "file": "/home/stark/桌面/chatserver-master/src/client/main.cpp"
+  "directory": "/home/stark/桌面/mini-chat-server/build/src/client",
+  "command": "/usr/bin/g++  -I/home/stark/桌面/mini-chat-server/include -I/home/stark/桌面/mini-chat-server/include/server -I/home/stark/桌面/mini-chat-server/include/server/db -I/home/stark/桌面/mini-chat-server/include/client -I/home/stark/桌面/mini-chat-server/include/model -I/home/stark/桌面/mini-chat-server/include/redis -I/home/stark/桌面/mini-chat-server/thirdparty -I/usr/lib64/mysql  -g -std=c++11 -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/stark/桌面/mini-chat-server/src/client/main.cpp",
+  "file": "/home/stark/桌面/mini-chat-server/src/client/main.cpp"
 }
 ]

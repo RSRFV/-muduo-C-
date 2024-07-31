@@ -1,7 +1,7 @@
 src/client/CMakeFiles/ChatClient.dir/main.cpp.o: \
- /home/stark/桌面/chatserver-master/src/client/main.cpp \
+ /home/stark/桌面/mini-chat-server/src/client/main.cpp \
  /usr/include/stdc-predef.h \
- /home/stark/桌面/chatserver-master/include/server/model/user.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/user.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -128,15 +128,15 @@ src/client/CMakeFiles/ChatClient.dir/main.cpp.o: \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/stark/桌面/chatserver-master/include/server/model/group.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/groupuser.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/user.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/group.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/groupuser.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/user.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/stark/桌面/chatserver-master/include/public.hpp \
- /home/stark/桌面/chatserver-master/thirdparty/json.hpp \
+ /home/stark/桌面/mini-chat-server/include/public.hpp \
+ /home/stark/桌面/mini-chat-server/thirdparty/json.hpp \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_algo.h \

@@ -1,10 +1,10 @@
 src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o: \
- /home/stark/桌面/chatserver-master/src/server/model/groupmodel.cpp \
+ /home/stark/桌面/mini-chat-server/src/server/model/groupmodel.cpp \
  /usr/include/stdc-predef.h \
- /home/stark/桌面/chatserver-master/include/server/model/groupmodel.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/group.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/groupuser.hpp \
- /home/stark/桌面/chatserver-master/include/server/model/user.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/groupmodel.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/group.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/groupuser.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/model/user.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -135,7 +135,7 @@ src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/stark/桌面/chatserver-master/include/server/db/db.hpp \
+ /home/stark/桌面/mini-chat-server/include/server/db/db.hpp \
  /usr/include/mysql/mysql.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
  /usr/include/mysql/field_types.h /usr/include/mysql/my_list.h \
