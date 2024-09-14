@@ -3,7 +3,7 @@
 基于muduo网络库实现的迷你集群聊天服务器
 
 ## 2. 开发环境
-- centos
+- ubuntu
 - [nlohmann](https://github.com/nlohmann) 编写的在C++下使用的 [JSON库](https://github.com/nlohmann/json)
 - boost + muduo网络库开发环境
 - mysql数据库
